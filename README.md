@@ -1,4 +1,4 @@
-# Quadrix-FAQ and Support
+# Quadrix-FAQ
 Quadrix FAQ and Support
 
 # Quadrix — Frequently Asked Questions
